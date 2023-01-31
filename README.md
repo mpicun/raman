@@ -1,2 +1,2 @@
 # raman
-Create Raman Spectra from QE/PHonon calculation
+Simulates Raman Spectra from QE/PHonon calculation
